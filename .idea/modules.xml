@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/grails-ex-dbdms.iml" filepath="$PROJECT_DIR$/grails-ex-dbdms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grails-ex-dbdms-grailsPlugins.iml" filepath="$PROJECT_DIR$/grails-ex-dbdms-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
